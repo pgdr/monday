@@ -8,7 +8,7 @@ Fried Egg
 
 ## Dinner
 
-Xizza
+Pizza
 Hamburger
 Xaco
 
