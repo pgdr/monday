@@ -1,5 +1,7 @@
 # Menu
 
+This is our menu.
+
 ## Breakfast
 
 * Bread
