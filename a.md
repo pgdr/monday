@@ -3,7 +3,7 @@
 ## Breakfast
 
 Bread
-Fried Egg
+Scrambled Eggs
 
 ## Dinner
 
