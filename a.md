@@ -3,7 +3,6 @@
 ## Breakfast
 
 Bread
-Cheese
 Fried Egg
 
 ## Dinner
