@@ -5,7 +5,6 @@
 * Bread
 * Scrambled Eggs
 * Eggs Benedict
-* Fried eggs
 
 ## Dinner
 
