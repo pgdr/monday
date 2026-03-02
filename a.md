@@ -14,5 +14,5 @@ Taco
 
 ## Deserts
 
-cake
-ice cream
+Cake
+Ice cream
