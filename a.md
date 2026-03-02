@@ -10,7 +10,7 @@ Fried Egg
 
 Pizza
 Hamburger
-Xaco
+Taco
 
 ## Deserts
 
