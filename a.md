@@ -1,9 +1,13 @@
 # Meny
 
+Our menu
+
 ## Breakfast
 
 Bread
 Scrambled Eggs
+Eggs Benedict
+Fried eggs
 
 ## Dinner
 
@@ -15,3 +19,6 @@ Taco
 
 Cake
 Ice cream
+
+## EOM
+
