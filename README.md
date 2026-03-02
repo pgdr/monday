@@ -1,24 +1,19 @@
 # Meny
 
-Our menu
-
 ## Breakfast
 
-Bread
-Scrambled Eggs
-Eggs Benedict
-Fried eggs
+* Bread
+* Scrambled Eggs
+* Eggs Benedict
+* Fried eggs
 
 ## Dinner
 
-Pizza
-Hamburger
-Taco
+* Pizza
+* Hamburger
+* Taco
 
 ## Deserts
 
-Cake
-Ice cream
-
-## EOM
-
+* Cake
+* Ice cream
